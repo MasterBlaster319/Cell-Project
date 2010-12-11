@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\background.tga</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2010-12-10T15:14:25.4332511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannon.tga</Source>
+      <Name>Sprites\cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\Sprites\cannon.xnb</Output>
+      <Time>2010-12-10T20:51:17.677-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\Sprites\cannonball.xnb</Output>
+      <Time>2010-12-10T12:38:49.6622511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy.tga</Source>
+      <Name>Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
+      <Time>2010-04-24T08:21:06.6470482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Sprite.png</Source>
+      <Name>Sprites\Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\Sprites\Sprite.xnb</Output>
+      <Time>2010-09-26T09:50:15.528-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-22T21:09:56.1492502-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

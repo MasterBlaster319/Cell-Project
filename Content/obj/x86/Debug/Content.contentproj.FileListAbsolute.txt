@@ -1,0 +1,2 @@
+C:\Users\Brandy\Documents\Visual Studio 2008\Projects\MyFirstTry\MyFirstTry\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brandy\Desktop\Cell Project\MyFirstTry\Content\obj\x86\Debug\ResolveAssemblyReference.cache
