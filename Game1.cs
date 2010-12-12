@@ -59,7 +59,7 @@ namespace MyFirstTry
                 "Sprites\\background");
 
             cannon = new GameObject (Content.Load<Texture2D>("Sprites\\cannon"));
-            cannon.position = new Vector2(500, graphics.GraphicsDevice.Viewport.Height - 475);
+            cannon.position = new Vector2(600, graphics.GraphicsDevice.Viewport.Height - 350);
             cannonballs = new GameObject[maxcannonballs];
             for (int i = 0; i < maxcannonballs; i++)
             {
@@ -106,7 +106,7 @@ namespace MyFirstTry
                 cannon.rotation += 0.1f;
             }
 #endif
-            cannon.rotation = MathHelper.Clamp(cannon.rotation, -MathHelper.Pi*2, 0);
+            //cannon.rotation = MathHelper.Clamp(cannon.rotation, -MathHelper.Pi*2, 0);
             
             UpdateCannonBalls();
             // TODO: Add your update logic here
