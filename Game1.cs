@@ -64,7 +64,7 @@ namespace MyFirstTry
             for (int i = 0; i < maxcannonballs; i++)
             {
                 cannonballs[i] = new GameObject(Content.Load<Texture2D>(
-                    "sprites\\sprite"));
+                    "Sprites\\cannonball"));
             }
             viewportRect = new Rectangle(0, 0,
                 graphics.GraphicsDevice.Viewport.Width,
